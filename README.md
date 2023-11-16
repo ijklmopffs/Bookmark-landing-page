@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ijklmopffs/Bookmark-landing-page)
-- [Live Site URL](bookmark-your-page--for-devs.netlify.app)
+- [Live Site URL](https://bookmark-your-page-for-devs.netlify.app/)
 
 ## My process
 
